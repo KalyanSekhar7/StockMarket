@@ -1,9 +1,15 @@
 # StockMarket
 This is a stock market simulation like platform starting from OrderBooks -> kafka(streaming) -> UserTrades -> dashboard.
 
-# 🏦 Realistic Stock Market Simulation
+## ⚙️ Tech Stack Overview
 
-This repository is a realistic, high-performance **Stock Market Simulation** system, designed to emulate the workings of a real trading platform. The core is built with C++ for speed and performance, enhanced with Kafka for real-time event streaming, and visualized with a Streamlit-based dashboard.
+| Component        | Technology       | Purpose                                    |
+|------------------|------------------|--------------------------------------------|
+| Core Engine   | **C++**          | High-speed order matching and processing   |
+| Event Stream | **Apache Kafka** | Real-time trade and order event broadcasting |
+| Dashboard     | **Streamlit**     | Live visualization of prices and order book |
+| Auth (optional) | **Keycloak**  ( To be added in future)   | User authentication and access control     |
+
 
 
 ---
