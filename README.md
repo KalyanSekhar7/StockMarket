@@ -5,15 +5,11 @@ This is a stock market simulation like platform starting from OrderBooks -> kafk
 
 This repository is a realistic, high-performance **Stock Market Simulation** system, designed to emulate the workings of a real trading platform. The core is built with C++ for speed and performance, enhanced with Kafka for real-time event streaming, and visualized with a Streamlit-based dashboard.
 
+
 ---
 
-## 📈 Real-Time Candlestick View
-
-
-
-Watch the live action as trades update the price candles in real time:
-
-![Candle View](https://raw.githubusercontent.com/KalyanSekhar7/StockMarket/main/Screen%20Recording%20candle.gif)
+## 📈 Stock Price View
+![OrderBook](https://raw.githubusercontent.com/KalyanSekhar7/StockMarket/main/Screen%20Recording%20orderbook.gif)
 
 ## 📊 OrderBook View
 
@@ -21,8 +17,14 @@ Watch the live action as trades update the price candles in real time:
 
 ---
 
-## 📈 Stock Price View
-![OrderBook](https://raw.githubusercontent.com/KalyanSekhar7/StockMarket/main/Screen%20Recording%20orderbook.gif)
+## 📈 Real-Time Candlestick View
+
+Watch the live action as trades update the price candles in real time:
+
+![Candle View](https://raw.githubusercontent.com/KalyanSekhar7/StockMarket/main/Screen%20Recording%20candle.gif)
+
+
+
 
 
 
