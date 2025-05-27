@@ -17,13 +17,14 @@ Watch the live action as trades update the price candles in real time:
 
 ## 📊 OrderBook View
 
-![OrderBook](https://raw.githubusercontent.com/KalyanSekhar7/StockMarket/main/Screen%20Recording%20orderbook.gif)
+![Stock Price](https://raw.githubusercontent.com/KalyanSekhar7/StockMarket/main/Screen%20Recording%20stock_price.gif)
 
 ---
 
 ## 📈 Stock Price View
+![OrderBook](https://raw.githubusercontent.com/KalyanSekhar7/StockMarket/main/Screen%20Recording%20orderbook.gif)
 
-![Stock Price](https://raw.githubusercontent.com/KalyanSekhar7/StockMarket/main/Screen%20Recording%20stock_price.gif)
+
 
 
 ## 🔧 Core Components
