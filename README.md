@@ -182,7 +182,7 @@ To run the simulation
 
 
 # Finally 
-## so ultimately to cut short , three things are running simultaniously
+## In short, three components are running simultaneously.
 - OrderBook APi  ``` ./orderbook_api```
 - streamlit dashboard ```streamlit run streamlitSampleUser.py```
 - simulation ```python sample_user.py```
